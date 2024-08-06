@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;demo/src/main/resources/createCourses.sql&apos; to &apos;schema.sql&apos;" description="Rename resource &apos;createCourses.sql&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/createCourses.sql" name="schema.sql" stamp="1720187813151" updateReferences="true"/>
+</session>
